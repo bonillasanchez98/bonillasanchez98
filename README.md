@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jose Fco. Bonilla</h1>
-<h3 align="center">A passionate backend developer from Dominican Republic</h3>
+<h1 align="center">Hi 👋, I'm Jose Fco. Bonilla:boy:</h1>
+<h3 align="center">
+  I am a young developer passionate about BackEnd. I like creating applications with Java, creating REST APIs with Spring Boot, and trying to implement best practices, design patterns, and ORMs.
+
+I am an Alumni of the ORACLE x Alura Latam G4 study program. Every day I try to improve and acquire more knowledge (Every day is a learning day). I love soccer:soccer: and technology in general:computer:.
+</h3>
 
 - 🌱 I’m currently learning **Java:coffee: | Spring boot:leaves: | Hibernate:floppy_disk: | MySQL (Workbench):dolphin:**
 
