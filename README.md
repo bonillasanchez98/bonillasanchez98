@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Jose Fco. Bonilla 👦</h1>
 <h3 align="justify">
-  I am a young developer passionate about BackEnd. I like creating applications with Java, creating REST APIs with Spring Boot, and trying to implement best practices, design patterns, and ORMs. </br> </br>
-
-I am an Alumni of the ORACLE x Alura Latam G4 study program. Every day I try to improve and acquire more knowledge (Every day is a learning day). I love soccer:soccer: and technology in general 💻.
+  I am a young developer passionate about Back-End technologies, and Databases. I like creating applications with Java, creating REST APIs with Spring Boot, and trying to implement best practices, and design   patterns.
+</br>
+</br>
+  Every day I try to improve and acquire more knowledge (Every day is a learning day). I love soccer ⚽ and technology in general 💻.
 </h3>
 
 - 🛠️ My Projects:
