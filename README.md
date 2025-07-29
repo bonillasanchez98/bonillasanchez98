@@ -69,5 +69,11 @@
 🛢️ Bases de datos: MS SQL Server • Postgres • MySQL • Oracle
 ⚙️ DevOps:        Docker • GitHub • CI/CD • Linux
 🔗 Otros:         REST • GraphQL • SOAP • Event-driven • Clean Code
+```
+---
+
+## 📬 Contactame
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" url="bonillasanchez98@gmail.com"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" url="https://linkedin.com/in/josebonillasanchez"/>
 
 
