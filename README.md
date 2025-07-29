@@ -1,29 +1,73 @@
 <!--
 **bonillasanchez98/bonillasanchez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h1 align="center">👨‍💻 Backend Developer | API Engineer | Databases Curious</h1>
 
-<h1 align="center">Hi 👋, I'm Jose Bonilla 👦</h1>
-<h3 align="justify">
-  I am a young developer passionate about Back-End technologies and realtional Databases. I like creating applications with Java and C#. creating REST APIs with Spring Boot, .NET, and trying to implement best practices and design patterns, clean architecture.
-</br>
-</br>
-  Every day I try to improve and acquire more knowledge (Every day is a learning day). I love soccer ⚽ and technology in general 💻.
-</h3>
-
-- 🛠️ My Projects:
-  - <a href = "https://github.com/bonillasanchez98/TaskManagementProject">Sistema de Gestion de Tareas (SIGETA) - Clean Code</a>
-  - <a href = "http://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioCleanSol">Sistema de Gestion de Bibliotecas (SIGEBI) - Clean Code</a>
-  - <a href = "https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioWeb">Sistema de Gestion de Bibliotecas (SIGEBI)</a>
-  - <a href = "https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/SistemaGestionDeNomina">Sistema Gestion de Nomina</a>
-  - <a href = "https://github.com/bonillasanchez98/ecommerce-backend/tree/dev">E-commerce</a>
-  - <a href = "https://github.com/bonillasanchez98/challeng1-encriptador-texto-alura">Text Encryptor</a>
-  - <a href = "https://github.com/bonillasanchez98/RentACar-HackathonONE-G6">RentACar-HackathonONE-G6</a>
-  - <a href = "https://github.com/bonillasanchez98/halloween_challenge">Halloween Challenge</a>
-
-<h3 align="left">Some technologies I use:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josebonillasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josebonillasanchez" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32C3B7&center=true&vCenter=true&width=600&lines=I+build+robust+APIs+%F0%9F%9A%80;I+love+clean+architecture+%E2%9C%A8;I+automate+everything+%F0%9F%94%A5" />
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+🎯 Soy un desarrollador backend con pasión por crear soluciones **elegantes**, **escalables** y **bien documentadas**.  
+🎧 Me encanta trabajar con APIs, microservicios, bases de datos y automatización.  
+🛠️ Siempre estoy buscando nuevos retos y tecnologías que me reten.
+
+---
+
+## 🚀 Proyectos Favoritos
+
+<table>
+  <tr>
+    <td><b>📘 SIGEBI</b><br/><sub>Sistema Gestor de Bibliotecas - clean code</sub></td>
+    <td><b>📃 SIGETA</b><br/><sub>Sistema Gestor de Tareas - Clean Code</sub></td>
+    <td><b>👨‍🦱👩‍🦱</b><br/><sub>Sistema de Gestión de Nómina por Categoría de Empleados</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bonillasanchez98/TaskManagementProject"> <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d615f3c0-2e16-4333-8a0e-307caf1a9394" /> </a></td>
+    <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioCleanSol"> <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d615f3c0-2e16-4333-8a0e-307caf1a9394" /> </a></td>
+    <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/SistemaGestionDeNomina"> <img width="550" height="55" alt="image" src="https://github.com/user-attachments/assets/82a0ae2b-f97b-4293-95af-9870cc1cceba" />
+ </a></td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack y Herramientas
+
+```bash
+💻 Lenguajes:     C# • Java • Php • Javascript • Typescript
+🧰 Frameworks:    .NET • Spring Boot.js
+🛢️ Bases de datos: MS SQL Server • Postgres • MySQL • Oracle
+⚙️ DevOps:        Docker • GitHub • CI/CD • Linux
+🔗 Otros:         REST • GraphQL • SOAP • Event-driven • Clean Code
+
+
