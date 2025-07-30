@@ -1,7 +1,7 @@
 <!--
 **bonillasanchez98/bonillasanchez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">👨‍💻 Backend Developer | API Engineer | Databases Curious</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist Medium-Dark Skin Tone" width="75" height="75" /> Backend Developer | API Engineer | Databases Curious</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -38,8 +38,8 @@
 ## 🧠 Sobre mí
 
 🎯 Soy un desarrollador backend con pasión por crear soluciones **elegantes**, **escalables** y **bien documentadas**.  
-🎧 Me encanta trabajar con APIs, microservicios, bases de datos y automatización.  
-🛠️ Siempre estoy buscando nuevos retos y tecnologías que me reten.
+🎧 Me encanta trabajar con APIs, microservicios, bases de datos y cualquier tecnologia backend.  
+🛠️ Siempre estoy buscando nuevos retos y tecnologías que me ayuden a crear soluciones mientras aprendo.
 
 ---
 
@@ -52,8 +52,8 @@
     <td><b>👨‍🦱👩‍🦱</b><br/><sub>Sistema de Gestión de Nómina por Categoría de Empleados</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/bonillasanchez98/TaskManagementProject"> <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d615f3c0-2e16-4333-8a0e-307caf1a9394" /> </a></td>
-    <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioCleanSol"> <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d615f3c0-2e16-4333-8a0e-307caf1a9394" /> </a></td>
+    <td><a href="https://github.com/bonillasanchez98/TaskManagementProject"> Click para ir al repo </a></td>
+    <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioCleanSol"> Click para ir al repo </a></td>
     <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/SistemaGestionDeNomina"> <img width="550" height="55" alt="image" src="https://github.com/user-attachments/assets/82a0ae2b-f97b-4293-95af-9870cc1cceba" />
  </a></td>
   </tr>
@@ -65,15 +65,21 @@
 
 ```bash
 💻 Lenguajes:     C# • Java • Php • Javascript • Typescript
-🧰 Frameworks:    .NET • Spring Boot.js
+🧰 Frameworks:    .NET • Spring • Spring Boot
 🛢️ Bases de datos: MS SQL Server • Postgres • MySQL • Oracle
 ⚙️ DevOps:        Docker • GitHub • CI/CD • Linux
-🔗 Otros:         REST • GraphQL • SOAP • Event-driven • Clean Code
+🔗 Otros:         REST • GraphQL • SOAP • Microservicios • Clean Code
 ```
 ---
 
-## 📬 Contactame
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" url="bonillasanchez98@gmail.com"/>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" url="https://linkedin.com/in/josebonillasanchez"/>
+## 📫 Contactos
 
-
+<div align="left">
+  <a href="bonillasanchez98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bonillasanchez98@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://linkedin.com/in/josebonillasanchez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
