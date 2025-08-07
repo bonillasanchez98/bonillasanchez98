@@ -52,7 +52,8 @@
     <td><b>👨‍🦱👩‍🦱</b><br/><sub>Sistema de Gestión de Nómina por Categoría de Empleados</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/bonillasanchez98/TaskManagementProject"> Click para ir al repo </a></td>
+    <td><a href="https://github.com/bonillasanchez98/TaskManagementProject"> <img width="250" height="50" alt="image" src="https://github.com/user-attachments/assets/d5292e93-ff01-4453-836f-e25698519b68" />
+ </a></td>
     <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/BiblioCleanSol"> Click para ir al repo </a></td>
     <td><a href="https://github.com/bonillasanchez98/ITLA.C.sharp.INTERMEDIO/tree/master/SistemaGestionDeNomina"> <img width="550" height="55" alt="image" src="https://github.com/user-attachments/assets/82a0ae2b-f97b-4293-95af-9870cc1cceba" />
  </a></td>
