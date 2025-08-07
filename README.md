@@ -47,8 +47,8 @@
 
 <table>
   <tr>
-    <td><b>📘 SIGEBI</b><br/><sub>Sistema Gestor de Bibliotecas - clean code</sub></td>
     <td><b>📃 SIGETA</b><br/><sub>Sistema Gestor de Tareas - Clean Code</sub></td>
+    <td><b>📘 SIGEBI</b><br/><sub>Sistema Gestor de Bibliotecas - clean code</sub></td>
     <td><b>👨‍🦱👩‍🦱</b><br/><sub>Sistema de Gestión de Nómina por Categoría de Empleados</sub></td>
   </tr>
   <tr>
